@@ -1,0 +1,19 @@
+body{
+    background-image:-webkit-linear-gradient(top,#4790cc,#2eb8e2);
+}
+
+p{
+    font-size: 2rem;
+    line-height: 34px;
+}
+
+.card{
+    background-color: rgb(243, 232, 232);
+}
+
+.background-color-layer {
+    box-shadow: inset 0 -40px 60px 10px #4b97d0;
+}
+
+
+
